@@ -1,0 +1,12 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "javax.sql.DataSource",
+      "sourceType": "com.batch.config.H2DataSourceConfig",
+      "sourceMethod": "h2DataSource()"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}

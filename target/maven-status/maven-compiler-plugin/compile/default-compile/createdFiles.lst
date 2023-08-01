@@ -1,0 +1,16 @@
+META-INF/spring-configuration-metadata.json
+com/batch/config/H2DataSourceConfig.class
+com/batch/model/PersonName.class
+com/batch/config/PostgreSQLDataSourceConfig.class
+com/batch/processor/PersonItemProcessor.class
+com/batch/config/PersonNameBatchConfig.class
+com/batch/config/PersonDetailsBatchConfig.class
+com/batch/writer/PostgreSQLItemWriter.class
+com/batch/BatchJobScheduleApplication.class
+com/batch/config/PersonJobBatchConfig.class
+com/batch/config/JobCompletionListener.class
+com/batch/model/PersonDetails.class
+com/batch/reader/MySQLItemReader.class
+com/batch/config/MySQLDataSourceConfig.class
+com/batch/config/BatchJobConfig.class
+com/batch/model/PersonJob.class
